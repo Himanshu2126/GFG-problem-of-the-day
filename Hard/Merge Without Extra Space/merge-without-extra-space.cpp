@@ -4,6 +4,12 @@ using namespace std;
 
 
 // } Driver Code Ends
+
+
+
+
+
+
 class Solution{
     public:
         //Function to merge the arrays.
@@ -32,17 +38,13 @@ class Solution{
              sort(arr1, arr1 + n);
               sort(arr2,arr2+m);
             
-            //   while(1){
-            //             if(arr2[j]>arr2[j+1])
-            //             {
-            //                 swap(arr2[j],arr2[j+1]);
-            //             }
-            //             else
-            //             break;
-                        
-            //         }
+         
         } 
 };
+
+
+
+
 
 //{ Driver Code Starts.
 
